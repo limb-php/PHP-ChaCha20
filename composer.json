@@ -1,11 +1,11 @@
 {
-  "name": "leigh/chacha20",
-  "homepage": "https://github.com/lt/PHP-ChaCha20",
+  "name": "limb-php/chacha20",
+  "homepage": "https://github.com/limb-php/PHP-ChaCha20",
   "description": "Pure PHP implementation of the ChaCha20 encryption algorithm.",
   "authors": [
     {
-      "name": "Leigh",
-      "homepage": "https://github.com/lt"
+      "name": "limb-php",
+      "homepage": "https://github.com/limb-php"
     }
   ],
   "keywords": [
